@@ -10,7 +10,7 @@ This project implements the **AMBA AHB (Advanced High-performance Bus)** protoco
 - **Language:** Verilog HDL
 - **Design Approach:** RTL-level implementation
 - **Simulation Tool:** ModelSim Simulator
-- 
+  
 ---
 
 ## Module Descriptions
@@ -38,8 +38,6 @@ This project implements the **AMBA AHB (Advanced High-performance Bus)** protoco
 - Burst types: `SINGLE`, `INCR`, `WRAP` (via `HBURST`)
 - Read and write direction control (`HWRITE`)
 - Handshaking with `HREADY` and `HRESP`
-
----
 
 
 
